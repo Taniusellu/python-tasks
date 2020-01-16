@@ -11,7 +11,7 @@ print(mean)
 
 #task1
 
-mytask1 = "Complete the script so that it prins out the maxim value of student_grades1. In the order word, your duty is to find out the appropriate function or method that returns the maximum value of a list and store its output in max_value."
+mytask1 = "Complete the script so that it prins out the maxim value of student_grades1.In the order word, your duty is to find out the appropriate function or method that returns the maximum value of a list and store its output in max_value."
 print(mytask1)
 
 student_grades1 = [9.1, 8.8, 7.5]
