@@ -14,4 +14,5 @@ print(color_codes)
 #and 'evening' and each key should contain a tuple as value. Each tuple shoul contain three floats.
 
 day_temperatures1 = {'morning':(1.1, 1.2, 1.3), 'noon':(1.4, 1.5, 1.6), 'evening':(1.7, 1.8, 1.9)}
-print(day_temperatures1)
+print(day_)
+
