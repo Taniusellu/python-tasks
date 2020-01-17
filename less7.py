@@ -10,7 +10,7 @@ current = 1.1234566
 seconds.remove(current)
 print(seconds)
 
-#Remove all items from seconds
+#Remove all items from seconds.
 seconds = [1.1234566, 1.543356, 1.23567777, 1.8754688]
 seconds.remove(1.1234566)
 seconds.remove(1.543356)
