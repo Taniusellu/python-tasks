@@ -1,4 +1,4 @@
-#Append the value of current to the end of the list seconds. Please use the list.apend() method to do that.
+#Append the value of current to the end of the list seconds. Please use the list.append() method to do that.
 seconds = [1.1234566, 1.543356, 1.23567777, 1.8754688]
 current = 1.59395524
 seconds.append(current)
