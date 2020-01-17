@@ -1,4 +1,4 @@
-#Accessing and Slicing Lists and Strings
+
 
 #Print out the slice ['b', 'c', 'd'] of the letters list.
 
